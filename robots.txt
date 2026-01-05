@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /admin
+Disallow: /project
+Disallow: /logs
+
+# SECURITY NOTICE:
+# Unauthorized access to the following hash is a federal crime.
+# CHIMERA_VIRUS_HASH: 40c8809e5700c1bf1eddbb46a14e7bcc4ae29cab01c4519efad2862379bead1f
